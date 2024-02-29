@@ -40,7 +40,7 @@ Cypress
 
 ## Installation
 1. Clone the repo\
-`git clone https://github.com/19ozman/la_mere`
+`git clone https://github.com/blaise442/reservation-system`
 
 2. Install npm packages\
 `npm i`
@@ -82,8 +82,12 @@ MAIL_PASS=”Your app password”
 
 ## Access admin
  Downlaod mongodb client : https://www.mongodb.com/try/download/community
+ brew install mongodb-community@7.0
 
  brew install mongodb-atlas && atlas deployments setup
+
+ mongoimport --db restaurant_reservation --collection admins --file admins.json
+
 
 1. Make sure to use the file - `"admins.json"` - and import it to `MongoDB`.
 
