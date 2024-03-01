@@ -23,11 +23,19 @@ After you make an online reservation, you will receive an email confirmation alo
 End-to-end tests were implemented using Cypress.
 
 ## Screenshots
-![](./frontend/public/assets/screenshot-landingpage.png)
-![](./frontend/public/assets/screenshot-reservation.jpg)
-![](./frontend/public/assets/screenshot-admin.jpg)
-![](./frontend/public/assets/screenshot-admin-search.jpg)
 
+![](./frontend/public/assets/screenshot-landingpage.png)
+![](./frontend/public/assets/Screenshot_admin_home.png)
+![](./frontend/public/assets/screenshot-reservation.jpg)
+![](./frontend/public/assets/table-setting.jpg)
+![](./frontend/public/assets/Screenshot-menu.png)
+![](./frontend/public/assets/screenshot-admin.jpg)
+![](./frontend/public/assets/Screenshot-admin_reservatio_page.png)
+![](./frontend/public/assets/screenshot-admin-search.jpg)
+![](./frontend/public/assets/Screenshot-booking_confirmation_page.png)
+![](./frontend/public/assets/Screenshot-booking_email_confirmation.png)
+![](./frontend/public/assets/Screenshot-contact_page.png)
+![](./frontend/public/assets/Screenshot-databasebackend.png)
 
 ## Tools
 React\
@@ -123,6 +131,18 @@ Admin: `EMAIL: admin@admin.io` - `PASS: admin`
 Employee: `EMAIL: user@user.io` - `PASS: user`
 
 `localhost:4000/admin/manage` is `NOT` fully functional yet.
+
+
+## next Steps
+
+package and deploy application on a cloud environment like AWS 
+
+Use Terraform as a Infrastrcutire as code to manage this deployment 
+
+Containerize the application using docker and deploy on EKS with kurbernestes 
+
+then deploy as a 3 tier application ( highly resilient , scalable and redundant )
+
 
 
 ## Authors

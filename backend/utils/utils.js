@@ -18,7 +18,7 @@ const transport = async (email, date, id) => {
       "<h3>We look forward to welcoming you to Jaguar's Cafe " +
       date +
       '</h3>' +
-      '<p>If you would like to cancel your reservation, click <a href="http://localhost:3000/booking_cancelation/' +
+      '<p>If you would like to cancel your reservation,you will be charged $10 please  click <a href="http://localhost:3000/booking_cancelation/' +
       id +
       '">here</a>.</p>',
   })
