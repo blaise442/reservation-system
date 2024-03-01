@@ -126,9 +126,9 @@ Employee: `EMAIL: user@user.io` - `PASS: user`
 
 
 ## Authors
-[Blaise Wangmeni](https://github.com/blaise442)
-[Allen Andrew](https://github.com/aallen483)
-[Krohn Avery](https://github.com/Avery-test)
-[Benchannouf El Mehdi](https://github.com/elmehdibenchannouf)
+[Blaise Wangmeni](https://github.com/blaise442)\
+[Allen Andrew](https://github.com/aallen483)\
+[Krohn Avery](https://github.com/Avery-test)\
+[Benchannouf El Mehdi](https://github.com/elmehdibenchannouf)\
 [Lashmann Charles Gavin O](https://github.com/cgmann24)
 
