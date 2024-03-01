@@ -1,4 +1,4 @@
-# Restaurant Booking App 📅 🍽️
+# Restaurant Booking App( group 2)  📅 🍽️
 Fullstack app using React, TypeScript and Styled components on the frontend and Node.js, Express and MongoDB on the backend.
 
 ## Table of contents
