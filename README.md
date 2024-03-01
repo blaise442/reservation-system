@@ -12,7 +12,7 @@ Fullstack app using React, TypeScript and Styled components on the frontend and 
 - [Tools](#tools)
 
 ## Overview
-This is a school project where we were tasked to create a restaurant website and booking system using React and TypeScript on the frontend and Node.js, Express and MongoDB on the backend. 
+This is a school project where we were tasked to create a restaurant website and \booking system using React and TypeScript on the frontend and Node.js, Express and MongoDB on the backend. 
 
 The restaurant has 3 seating each day and 15 tables in total. Each table can seat up to 6 guests. We created functionality to also accommodate larger groups, so the booking system reserves the amount of tables needed. 
 
@@ -23,7 +23,7 @@ After you make an online reservation, you will receive an email confirmation alo
 End-to-end tests were implemented using Cypress.
 
 ## Screenshots
-![](./frontend/public/assets/screenshot-landingpage.jpg)
+![](./frontend/public/assets/screenshot-landingpage.png)
 ![](./frontend/public/assets/screenshot-reservation.jpg)
 ![](./frontend/public/assets/screenshot-admin.jpg)
 ![](./frontend/public/assets/screenshot-admin-search.jpg)
@@ -50,7 +50,7 @@ Cypress
 `cd reservation-system`
 
 4. Create a .env file
-To run this application you'll need the following environment variables in a .env file in the backend folder:
+To run this application you'll need the following environment variables \ in a .env file in the backend folder:
 - first create ,env file inside backend folder and define the below
 
 PORT=4000
