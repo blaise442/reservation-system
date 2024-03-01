@@ -25,13 +25,13 @@ export default function Contact() {
         </StyledFlexDiv>
         <div className="contact-box">
           <div>
-            <span>Riddargatan 9</span>
-            <span>114 35, Stockholm</span>
-            <span>Sweden</span>
+            <span>3007 N Ben Wilson St</span>
+            <span>Victoria, TX </span>
+            <span>77901</span>
           </div>
           <div>
-            <span>+46 8 123 456</span>
-            <span>info@jagsspace.com</span>
+            <span>+1 (202)202-2002</span>
+            <span>info@Jaguarscafe.com</span>
           </div>
         </div>
         <StyledFlexDiv>

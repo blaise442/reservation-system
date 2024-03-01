@@ -11,11 +11,11 @@ const transport = async (email, date, id) => {
   })
 
   await confirmation.sendMail({
-    from: 'reservations@lamere.com',
+    from: 'reservations@jaguarscafe.com',
     to: email,
-    subject: 'Your reservation at La Mère is confirmed',
+    subject: "Your reservation at Jaguar's Cafe is confirmed",
     html:
-      '<h3>We look forward to welcoming you to La Mére ' +
+      "<h3>We look forward to welcoming you to Jaguar's Cafe " +
       date +
       '</h3>' +
       '<p>If you would like to cancel your reservation, click <a href="http://localhost:3000/booking_cancelation/' +

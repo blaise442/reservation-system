@@ -1,1 +1,3 @@
 .env
+.mongodb-osx-x86_64-3.0.15
+.backend/mongodb-osx-x86_64-3.0.15.tgz

@@ -19,7 +19,7 @@ export default function GDPR() {
           Handling of personal data
         </StyledSmallHeading>
         <StyledParagraph textAlign="left" padding="10px 0px" fontSize="1.6rem">
-          At jagsspace we treat Personal data for users and guests using jagsspace
+          At Jaguar's cafe we treat Personal data for users and guests using Jaguar's cafe
           online booking system.. We safeguard your privacy and follow the
           applicable legislation at any time, which aims to protect you as a
           private person. The restaurant is the personal data controller for the
@@ -34,7 +34,7 @@ export default function GDPR() {
           This Privacy Policy applies only to users of La Mère's website.
         </StyledParagraph>
         <StyledParagraph textAlign="left" padding="10px 0px" fontSize="1.6rem">
-         jagsspace uses Personal Information primarily to administer, provide,
+          Jaguar's cafe uses Personal Information primarily to administer, provide,
           develop and maintain the Services, process your bookings, optimize
           your experience of the Services and personalize the communication with
           you. Please read this Privacy Policy carefully to understand how and
@@ -46,30 +46,30 @@ export default function GDPR() {
           one.
         </StyledParagraph>
         <StyledParagraph textAlign="left" padding="10px 0px" fontSize="1.6rem">
-          This Privacy Policy and La Mère's Terms of Use and any other terms
-          that govern the La Mère's processing of Personal Information indicate
+          This Privacy Policy and Jaguar's cafe Terms of Use and any other terms
+          that govern the Jaguar's cafe processing of Personal Information indicate
           the basis for how we treat Personal Information that you provide to us
           when you use our services or that we collect about you.
         </StyledParagraph>
         <StyledParagraph textAlign="left" padding="10px 0px" fontSize="1.6rem">
           Changes to these now mentioned conditions are announced by the new
-          conditions being published on the La Mère website and we therefore
+          conditions being published on the Jaguar's cafe website and we therefore
           recommend that you regularly take part of these. If you add Personal
           Information about other persons, you are responsible for ensuring that
           La Mère may also treat the Personal Data in accordance with applicable
           conditions.
         </StyledParagraph>
         <StyledSmallHeading padding="10px 0px">
-          Use of jag's space website
+          Use of Jaguar's cafe website
         </StyledSmallHeading>
         <StyledParagraph textAlign="left" padding="10px 0px" fontSize="1.6rem">
-          By booking via La Mère's website you agree that jag's space actively
+          By booking via Jaguar's cafe website you agree that Jaguar's cafe actively
           collects, manages, stores and uses, and in other ways treats, your
-          personal data in order for jag's space to be able to provide the services
+          personal data in order for Jaguar's cafe to be able to provide the services
           provided via the website.
         </StyledParagraph>
         <StyledParagraph textAlign="left" padding="10px 0px" fontSize="1.6rem">
-        jag's space can disclose Personal Information to third parties, such as
+          Jaguar's cafe can disclose Personal Information to third parties, such as
           police or other authority, whether it concerns investigation of crimes
           or whether the Theater Hotel is otherwise obliged to disclose such
           task with the support of law or authority decisions.
@@ -84,13 +84,13 @@ export default function GDPR() {
           personal data are registered about you. Any inaccurate personal data
           you may ask to be corrected. You can also apply to have personal data
           deleted. Such an application is submitted by sending an e-mail to
-          info@jagsspace.
+          info@Jaguarcafe.com.
         </StyledParagraph>
         <StyledSmallHeading textAlign="left" padding="10px 0px">
           Objectives for which we treat your personal data
         </StyledSmallHeading>
         <StyledParagraph textAlign="left" padding="10px 0px" fontSize="1.6rem">
-          jag's space uses Personal Information to administer, provide, develop and
+          Jaguar's cafe uses Personal Information to administer, provide, develop and
           maintain the Services, process your bookings, contact you via eg. SMS
           or email or to notify your booking status or information that connects
           to your booking before, during and after your reservation, diagnose
@@ -103,8 +103,7 @@ export default function GDPR() {
           including marketing behavior.
         </StyledParagraph>
         <StyledParagraph textAlign="left" padding="10px 0px" fontSize="1.6rem">
-          You are entitled at any time and without charge to request that La
-          Mère not process your Personal Information for marketing purposes or
+          You are entitled at any time and without charge to request that Jaguar's cafe not process your Personal Information for marketing purposes or
           withdraw your consent to this. You can use this right by contacting jag's space at the following address: info@jagsspace.com.
         </StyledParagraph>
         <StyledSmallHeading padding="10px 0px">Disclaimer</StyledSmallHeading>
@@ -118,7 +117,7 @@ export default function GDPR() {
           Storage times
         </StyledSmallHeading>
         <StyledParagraph textAlign="left" padding="10px 0px" fontSize="1.6rem">
-        jag's space follows good practice in the restaurant industry.
+          Jaguar's cafe follows good practice in the restaurant industry.
         </StyledParagraph>
         <StyledParagraph textAlign="left" padding="10px 0px" fontSize="1.6rem">
           The restaurant saves all the personal data we collect in our customer
@@ -133,7 +132,7 @@ export default function GDPR() {
         </StyledParagraph>
         <StyledParagraph textAlign="left" padding="10px 0px" fontSize="1.6rem">
           jag's space requires Personal Data in accordance with applicable law at
-          any given time. This means, for example, that La Mère deletes or
+          any given time. This means, for example, that Jaguar's cafe deletes or
           un-identifies Personal Data when the purpose of the processing of the
           Personal Data no longer exists.
         </StyledParagraph>
@@ -142,15 +141,15 @@ export default function GDPR() {
           data
         </StyledSmallHeading>
         <StyledParagraph textAlign="left" padding="10px 0px" fontSize="1.6rem">
-          jag's space takes ongoing measures to comply with the principles of
-          “built-in data protection and data protection as standard”. La Mère
+          Jaguar's cafe takes ongoing measures to comply with the principles of
+          “built-in data protection and data protection as standard”. Jaguar's cafe
           continuously evaluates the risks associated with the personal data
           processing that takes place and takes the necessary security measures
           to reduce the risks.
         </StyledParagraph>
         <StyledParagraph textAlign="left" padding="10px 0px" fontSize="1.6rem">
-          Do you have direct questions about how La Mère works with the data
-          protection regulation (GDPR), please contact La Mère.
+          Do you have direct questions about how Jaguar's cafe works with the data
+          protection regulation (GDPR), please contact Jaguar's cafe.
         </StyledParagraph>
       </StyledFlexDiv>
     </GDPRWrapper>

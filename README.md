@@ -46,12 +46,12 @@ Cypress
 `npm i`
 
 3. CD into repo\
-`cd la_mere`
+`cd reservation-system`
 
 4. Create a .env file\
 To run this application you'll need the following environment variables in a .env file in the backend folder:\
 PORT=4000\
-MONGO_URI=”your MongoDB connection string/LA_MERE”
+MONGO_URI=”your MongoDB connection string/LA_ME  ”
 
 5. Start server\
 `cd backend`\

@@ -13,7 +13,7 @@ export default function Hero() {
         </div>
         <div className="hero-text">
           <div>
-            <h1>La Mère</h1>
+            <h1>Jaguar's cafe</h1>
           </div>
           <div className="hero-links">
             <Link to="/reservations">Book A Table</Link>
