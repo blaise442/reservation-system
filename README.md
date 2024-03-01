@@ -28,6 +28,7 @@ End-to-end tests were implemented using Cypress.
 ![](./frontend/public/assets/screenshot-admin.jpg)
 ![](./frontend/public/assets/screenshot-admin-search.jpg)
 
+
 ## Tools
 React\
 TypeScript\
@@ -48,14 +49,19 @@ Cypress
 3. CD into repo\
 `cd reservation-system`
 
-4. Create a .env file\
-To run this application you'll need the following environment variables in a .env file in the backend folder:\
-PORT=4000\
-MONGO_URI=”your MongoDB connection string/LA_ME  ”
+4. Create a .env file
+To run this application you'll need the following environment variables in a .env file in the backend folder:
+- first create ,env file inside backend folder and define the below
 
-5. Start server\
+PORT=4000
+MONGO_URI=mongodb://localhost:27017
+MAIL_USER="" create a gmail 
+MAIL_PASS="" create a app password from security tab on gmail
+
+5. Start server\( before starting the backend server make sure to have downloaded \ mongoDb compass and connect to it on your console)
+
 `cd backend`\
-`npm run dev`
+`npm start`
 
 5. Run React \
 Open a new terminal\
@@ -95,9 +101,8 @@ MAIL_PASS=”Your app password”
 
 3. Connect to your `MongoDB`
 
-5. In MongoDB client when connected:
+5. In MongoDB client when connected: go to the  database "test"
 
-`LA_MERE =>`
 
 `Create collection =>`
 
@@ -107,7 +112,7 @@ MAIL_PASS=”Your app password”
 
 `"Import File" =>`
 
-`"admins.json"`
+`"admins.json"`( from backend/db)
 
 ## Login Credentials
 
@@ -121,5 +126,9 @@ Employee: `EMAIL: user@user.io` - `PASS: user`
 
 
 ## Authors
-[Blaise Wang](https://github.com/blaise442)
+[Blaise Wangmeni](https://github.com/blaise442)
+[Allen Andrew](https://github.com/aallen483)
+[Krohn Avery](https://github.com/Avery-test)
+[Benchannouf El Mehdi](https://github.com/elmehdibenchannouf)
+[Lashmann Charles Gavin O](https://github.com/cgmann24)
 
